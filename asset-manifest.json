@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa2dd202.css",
+    "main.js": "/static/js/main.1cc87710.js",
+    "static/media/thrall.png": "/static/media/thrall.2ce1be4c1f97da56605e.png",
+    "static/media/HasanYavuz_CV.pdf": "/static/media/HasanYavuz_CV.24cf586578c3b92a8fb8.pdf",
+    "static/media/Image_2.png": "/static/media/Image_2.326cafb372649ab2e261.png",
+    "static/media/Image.png": "/static/media/Image.b5cb3b713a2db6b5fd82.png",
+    "index.html": "/index.html",
+    "main.aa2dd202.css.map": "/static/css/main.aa2dd202.css.map",
+    "main.1cc87710.js.map": "/static/js/main.1cc87710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2dd202.css",
+    "static/js/main.1cc87710.js"
+  ]
+}
